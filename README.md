@@ -1,1 +1,1 @@
-# Whisper_Speech_analytics
+# OpenAI Whisper for speech_to_text analytics
